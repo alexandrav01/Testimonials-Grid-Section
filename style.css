@@ -1,0 +1,245 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500;600&display=swap");
+
+.danielWrap {
+  background-color: hsl(263, 55%, 52%);
+  border-radius: 10px;
+  padding: 0px 30px;
+  margin-top: 50px;
+  height: 25rem;
+}
+
+.danielAvatar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.danielAvatarWrap {
+  border: solid 3px hsl(263, 55%, 70%);
+  border-radius: 50%;
+  width: 30px;
+}
+
+.danielName {
+  font-weight: 600;
+  color: white;
+  line-height: 1.2;
+  font-size: 15px;
+}
+
+.danielVerified {
+  color: hsl(0, 0%, 50%);
+  font-weight: 500;
+  font-size: 13px;
+}
+
+.danielBigText {
+  color: white;
+  font-weight: 500;
+  font-size: 20px;
+  position: relative;
+  top: -40px;
+  bottom: 0px;
+}
+
+.danielText {
+  color: hsl(0, 0%, 70%);
+  font-weight: 500;
+  font-size: 13px;
+  position: relative;
+  top: -40px;
+}
+
+.jonathanWrap {
+  background-color: hsl(217, 19%, 35%);
+  border-radius: 10px;
+  padding: 30px;
+  margin-top: 30px;
+  height: 11rem;
+  box-shadow: 0px 5px 10px hsl(217, 19%, 70%);
+}
+
+.jonathanAvatar {
+  display: flex;
+  align-items: center;
+}
+
+.jonathanAvatarWrap {
+  border: solid 3px hsl(0, 0%, 81%);
+  border-radius: 50%;
+  width: 30px;
+}
+
+.jonathanName {
+  font-weight: 600;
+  color: white;
+  line-height: 1.2;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.jonathanVerified {
+  color: hsl(0, 0%, 50%);
+  font-weight: 500;
+  font-size: 13px;
+}
+
+.jonathanBigText {
+  color: white;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.jonathanText {
+  color: hsl(0, 0%, 70%);
+  font-weight: 500;
+  font-size: 13px;
+}
+
+.jeanetteWrap {
+    background-color: white;
+    border-radius: 10px;
+    padding: 30px;
+    margin-top: 30px;
+    height: 11rem;
+    box-shadow: 0px 5px 10px hsl(217, 19%, 70%);
+  }
+  
+  .jeanetteAvatar {
+    display: flex;
+    align-items: center;
+  }
+  
+  .jeanetteAvatarWrap {
+    border: solid 3px white;
+    border-radius: 50%;
+    width: 30px;
+  }
+  
+  .jeanettenName {
+    font-weight: 600;
+    color: hsl(217, 19%, 40%);
+    line-height: 1.2;
+    font-size: 15px;
+    margin-left: 10px;
+  }
+  
+  .jeanetteVerified {
+    color: hsl(0, 0%, 50%);
+    font-weight: 500;
+    font-size: 13px;
+  }
+  
+  .jeanetteBigText {
+    color: hsl(217, 19%, 40%);
+    font-weight: 500;
+    font-size: 20px;
+  }
+  
+  .jeanetteText {
+    color: hsl(0, 0%, 70%);
+    font-weight: 500;
+    font-size: 13px;
+  }
+
+  .kiraWrap {
+    background-color: white;
+    border-radius: 10px;
+    padding: 30px;
+    margin-top: 30px;
+    height: 22rem;
+    box-shadow: 0px 5px 10px hsl(217, 19%, 70%);
+    margin-bottom: 50px;
+  }
+  
+  .kiraAvatar {
+    display: flex;
+    align-items: center;
+  }
+  
+  .kiraAvatarWrap {
+    border: solid 3px white;
+    border-radius: 50%;
+    width: 30px;
+  }
+  
+  .kiraName {
+    font-weight: 600;
+    color: hsl(217, 19%, 40%);
+    line-height: 1.2;
+    font-size: 15px;
+    margin-left: 10px;
+  }
+  
+  .kiraVerified {
+    color: hsl(0, 0%, 50%);
+    font-weight: 500;
+    font-size: 13px;
+  }
+  
+  .kiraBigText {
+    color: hsl(217, 19%, 40%);
+    font-weight: 500;
+    font-size: 20px;
+  }
+  
+  .kiraText {
+    color: hsl(0, 0%, 70%);
+    font-weight: 500;
+    font-size: 13px;
+  }
+
+.mainWrap {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+  background-color: hsl(0, 0%, 81%);
+}
+
+.patrickWrap {
+    background-color: hsl(219, 29%, 14%);
+    border-radius: 10px;
+    padding: 30px;
+    margin-top: 30px;
+    height: 19rem;
+    box-shadow: 0px 5px 10px hsl(217, 19%, 70%);
+  }
+  
+  .patrickAvatar {
+    display: flex;
+    align-items: center;
+  }
+  
+  .patrickAvatarWrap {
+    border: solid 3px hsl(263, 55%, 52%);
+    border-radius: 50%;
+    width: 30px;
+  }
+  
+  .patrickName {
+    font-weight: 600;
+    color: white;
+    line-height: 1.2;
+    font-size: 15px;
+    margin-left: 10px;
+  }
+  
+  .patrickVerified {
+    color: hsl(0, 0%, 50%);
+    font-weight: 500;
+    font-size: 13px;
+  }
+  
+  .patrickBigText {
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+  }
+  
+  .patrickText {
+    color: hsl(0, 0%, 70%);
+    font-weight: 500;
+    font-size: 13px;
+  }
